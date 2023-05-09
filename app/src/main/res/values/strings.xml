@@ -1,0 +1,51 @@
+<resources>
+    <string name="app_name">Competition</string>
+
+    <string-array name="quiz">
+        <item>اولین پادشاه قاجار که بود؟</item>
+        <item>سلسله صفوی چندسال حکومت کرد؟</item>
+        <item>کوروش کبیر(بزرگ)فرزند که بود؟</item>
+        <item>داریوش کبیر(بزرگ) چند سال قبل از میلاد سلطنت میکرد؟</item>
+    </string-array>
+
+    <string name="quiz1">اولین پادشاه قاجار که بود؟</string>
+    <string name="quiz2">سلسله صفوی چندسال حکومت کرد؟</string>
+    <string name="quiz3">کوروش کبیر(بزرگ)فرزند که بود؟</string>
+    <string name="quiz4">داریوش کبیر(بزرگ) چند سال قبل از میلاد سلطنت میکرد؟</string>
+
+    <string-array name="answers1">
+        <item>ناصرالدین شاه</item>
+        <item>آقامحمد خان</item>
+        <item>فتحعلی شاه</item>
+        <item>محمد شاه</item>
+    </string-array>
+    <string-array name="answers2">
+        <item>250سال</item>
+        <item>100سال</item>
+        <item>235سال</item>
+        <item>300سال</item>
+    </string-array>
+    <string-array name="answers3">
+        <item>کمبوجیه</item>
+        <item>داریوش بزرگ</item>
+        <item>یزد گرد یکم</item>
+        <item>انوشیروان</item>
+    </string-array>
+    <string-array name="answers4">
+        <item>195 تا 132 پیش از میلاد</item>
+        <item>381 تا 330 پیش از میلاد</item>
+        <item>530 تا 600 پیش از میلاد</item>
+        <item>550 تا 460 پیش از میلاد</item>
+    </string-array>
+
+    <string-array name="answer">
+        <item>آقامحمد خان</item>
+        <item>235سال</item>
+        <item>کمبوجیه</item>
+        <item>550 تا 460 پیش از میلاد</item>
+    </string-array>
+    <string name="answer1">آقامحمد خان</string>
+    <string name="answer2">235سال</string>
+    <string name="answer3">کمبوجیه</string>
+    <string name="answer4">550 تا 460 پیش از میلاد</string>
+</resources>
